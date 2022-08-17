@@ -1,2 +1,2 @@
 ﻿# SearchStrategies
-test1234567890
+Readme text
