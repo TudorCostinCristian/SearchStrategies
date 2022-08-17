@@ -1,2 +1,2 @@
 ﻿# SearchStrategies
-Readme text!
+Readme
