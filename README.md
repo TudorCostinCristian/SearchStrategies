@@ -1,4 +1,4 @@
-﻿# SearchStrategies
+﻿# Search Strategies
 
 Project required during the Artificial Intelligence course (4th year student).
 
